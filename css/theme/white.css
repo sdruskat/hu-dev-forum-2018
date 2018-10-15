@@ -69,7 +69,8 @@ body {
 .reveal h1 {
   text-shadow: none; }
 
-.reveal h1.norm {
+.reveal h1.norm,
+.reveal h2.norm {
   text-transform: none;
 }
 
