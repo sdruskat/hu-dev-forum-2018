@@ -4,7 +4,7 @@ Stephan Druskat
 
 Developer Forum der Humboldt-Universität, 15. Okt. 2018
 
-Folien: http://sdruskat.net/hu-dev-forum-2018/
+Folien: https://sdruskat.net/hu-dev-forum-2018/
 
 Note:
 Naiveté, regression, despair
@@ -164,7 +164,7 @@ Note:
 - **Software Sustainability Institute**: EPSRC, BBSRC, ESRC Grant EP/N006410/1
 - **Projektförderung:** DFG grant GA 1288/11 ("Research software sustainability")
 
-Folien: http://sdruskat.net/hu-dev-forum-2018
+Folien: https://sdruskat.net/hu-dev-forum-2018
 
 stephan.druskat@hu-berlin.de, <i class="fa fa-twitter"/></i> [@stdruskat](https://twitter.com/stdruskat),
 <i class="fa fa-github"/></i> [@sdruskat](https://github.com/sdruskat)
